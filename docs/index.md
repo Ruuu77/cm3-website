@@ -1,12 +1,13 @@
 ---
-title: Home Page
+title: Home Page by Ritsuko
 ---
 
-This is the home page of Rahul's CM3 website.
+This is the home page of Ritsuko's CM3 website.
 
-## A smaller level Heading
+## Content page
+***The introductions of coding and computer science***
 
-### And even smaller
+### Main paragraph
 
 Just write to start a para. Use `**word**` to bold **word**. Use `*word*` to italicise. For a new para, you need to hit return at-least twice.
 
@@ -15,6 +16,7 @@ This is another para.
 In this one we show some lists. just start the lista on the next line after hitting one return:
 - an item
 - another item
+- a third item
 
 In this new para we create a numbered list using numbers.
 1. first item
